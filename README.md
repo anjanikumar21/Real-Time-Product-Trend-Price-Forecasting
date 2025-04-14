@@ -50,4 +50,4 @@ This project is designed to provide real-time analysis of product trends and pri
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/kshitijchavhan24/Real-Time-Product-Trend-Price-Forecasting.git
+   git clone https://github.com/anjanikumar21/Real-Time-Product-Trend-Price-Forecasting.git
